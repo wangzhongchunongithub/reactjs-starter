@@ -1,0 +1,30 @@
+.appRoot{
+    color:#006600;
+}
+.cart{
+    color: #555500;
+}
+.item{
+    color: #2b81af;
+}
+.user{
+    color: #710909;
+    margin-left: 14px !important;
+}
+.table-users thead tr th{
+    background-color: #425563;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+.table-cart thead tr th{
+    background-color: #425563;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+.item-link{
+    font-style: italic;
+    color: #0086b3;
+    text-decoration: rgba(9, 16, 7, 0.89);
+}
