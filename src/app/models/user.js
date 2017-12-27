@@ -10,7 +10,7 @@ class User {
     getUsers() {
         let dfd = $.Deferred();
         let promise = $.ajax({
-            url: 'http://myapps.eastus.cloudapp.azure.com:8899/users/findAll',
+            url: 'http://..../users/findAll',
             method: 'get',
             dataType: 'JSON',
             headers: {
